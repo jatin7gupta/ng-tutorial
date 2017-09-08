@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import {ProductListComponent} from './product/product-list.component';
 import {FormsModule} from '@angular/forms';
 
+
 @NgModule({
   declarations: [
     AppComponent,
